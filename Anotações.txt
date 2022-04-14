@@ -1,0 +1,6 @@
+Olá Mundo!
+
+Anotações relevantes da aula:
+
+- git clone
+- git commit > git push
