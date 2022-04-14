@@ -1,2 +1,2 @@
-# dio-desafio-github
-Desafio de Projeto: Git/Github
+# Desafio-DIO
+Desafios do Bootcamp Philips - DIO
